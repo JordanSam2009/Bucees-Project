@@ -1,2 +1,7 @@
-# Bucees-Project
-Repository for VEX Robotics Code
+# BUCEES PROJECT REPOSITORY
+REPOSITORY DEDICATED TO UPDATES FOR BUCEES PROJECT/RELATED PROJECTS
+
+## Project List:
+### VEX Robotics Code Template [VEXcode]
+### DOXYGEN DOCUMENTATION [DONE]
+### Custom Path Planner [NOT DONE]
